@@ -70,6 +70,6 @@ Dashboard dapat diakses melalui Tableau Public:
 
 - Weekly Business Performance Dashboard
 
-Nama: [Nama Kamu]
+Nama: [Taufik Qurohman]
 
 Project Dashboard Bisnis Mingguan
